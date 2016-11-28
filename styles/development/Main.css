@@ -1,0 +1,345 @@
+.NightSky_Page
+{
+    width: 1600px;
+    height: 880px;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url(../images/background.png);
+    color: white;
+}
+.NightSky_Page_Starnight_App_Heading
+{
+    padding-top: 159px;
+    font-size: 56px;
+    font-family: "LatoLight";
+}
+.NightSky_Page_Starnight_App_Article
+{
+    padding-top: 11px;
+    width: 673px;
+    margin-left: 454px;
+    line-height: 31px;
+    letter-spacing: -1.2px;
+    font-size: 19px;
+    word-spacing: 1px;
+    font-family: "LatoLightItalic";
+}
+.NightSky_Page_Starnight_App_Play_Button
+{
+    padding-top: 70px;
+    width: 99px;
+    height: 99px;
+    margin-left: 749px;
+}
+.NightSky_Page_Button_Get_Started
+{
+    font-size: 150%;
+    margin-top: 336px;
+    color: white;
+    background-color: rgb(122, 204, 200);
+    position: relative;
+    width: 280px;
+    height: 70px;
+    border-width: 0px;
+    border-radius: 2px;
+}
+.Downloading_Page
+{
+    width: 1600px;
+    height: 750px;
+    background-color: rgb(232, 185, 104);
+    margin: 0 auto;
+    color: white;
+    font-family: "LatoLight";
+}
+.Downloading_Page_Describtion_Heading
+{
+    width: 657px;
+    height: 94px;   
+    font-size: 52px;
+    margin-left: 209px;
+    padding-top: 85px;
+    line-height: 55px;
+}
+.Downloading_Page_Describtion_Article
+{
+    margin-left: 209px;
+    font-size: 16px;
+    width: 684px;
+    line-height: 30px;
+}
+.Downloading_Page_Describtion_Article_Part_1
+{
+    padding-top: 134px;
+}
+.Downloading_Page_Describtion_Article_Part_2
+{
+    padding-top: 31px;
+}
+.Downloading_Page_Button{
+    margin: 36px 0 0 209px;
+    padding: 12px 40px 13px 40px;
+    font-size: 115%;
+    background-color: rgb(232, 185, 104);
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2px;
+    height: 69px;
+    width: 280px;
+    color: white;
+}
+.Downloading_Page_Image
+{
+    margin-left: 980px;
+    position: relative;
+    bottom: 508px;
+    box-shadow: -20px 75px 80px rgba(0,0,0,0.5); 
+    overflow: hidden; 
+    width: 620px;
+    height: 684px;
+}
+.TryDemo_Page
+{
+    width: 1600px;
+    height: 1425px;
+    margin: 0 auto;
+    color: white;
+    position: relative;
+    color: rgb(145, 151,168);
+    line-height: 1.75;
+    font-family: "LatoLight";
+}
+.TryDemo_Page_Heading
+{
+    height: 600px;
+    background-color: #5b6869;
+}
+.TryDemo_Page_Text_Block_Cap
+{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+.TryDemo_Page_Text_Block
+{
+	font-family: "LatoRegular";
+	letter-spacing: .7px;
+    line-height: 30px;
+}
+.TryDemo_Page_Text_Block_So_Dreamy
+{
+    height: 260px;
+    width: 510px;
+    float: left;
+    margin: 105px 0 0 210px;
+}
+.TryDemo_Page_Text_Block_More_Buzz_Words
+{
+    height: 260px;
+    width: 510px;
+    float: left;
+    margin: 105px 0 0 150px;
+}
+.TryDemo_Page_Text_Block_Apple_Store
+{
+    margin-left: 210px;
+    height: 260px;
+    width: 510px;
+    float: left;
+}
+.TryDemo_Page_Text_Block_Extra_Sturtup
+{
+    margin-left: 150px;
+    height: 260px;
+    width: 510px;
+    float: left;	
+}
+.TryDemo_Page_Button
+{
+	text-align: center;
+    font-size: 110%;
+    color: white;
+    background-color: rgb(246, 150, 121);
+    border-width: 0px;
+    border-radius: 5px;
+    width: 180px;
+    height: 60px;	
+    padding: 12px 40px 12px 40px;
+    margin: 8px 0 0 720px;
+}
+
+.TryDemo_Page_Heading_Face
+{
+    object-fit: cover;
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    margin: 142px 0 0 737px;
+    border-color: white;
+    border-width: 7px;
+    border-style: solid;
+}
+.TryDemo_Page_Heading_Description
+{
+    color: white;
+    font-size: 40px;
+    padding-top: 13px;
+    text-align: center;
+    width: 1106px;
+    margin-left: 246px;
+    line-height: 56px;
+    font-family: "LatoLightItalic";
+}
+.TryDemo_Page_Triangle
+{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 29px 20px 0 20px;
+    border-color: #5b6869 transparent transparent transparent;
+    position: relative;
+    margin-left: 776px;
+}
+.Squares_Page
+{
+    position: relative;
+    width: 1600px;
+    height: 750px;
+    margin: 0 auto;
+    color: #9197a8;
+    background-color: #f6f6f4;
+}
+.Squares_Page_Blocks_Orange
+{
+    float: left;
+    margin: 100px 0 0 213px;
+}
+.Squares_Page_Blocks_Yellow
+{
+    float: left;
+    margin: 100px 0 0 22px;
+}
+.Squares_Page_Blocks_Orange_Square
+{
+    width: 337px;
+    height: 346px;
+    background-color: rgb(246, 150, 121);
+}
+.Squares_Page_Blocks_Yellow_Square
+{
+    width: 337px;
+    height: 346px;
+    background-color: green;
+    background-color: rgb(232, 185, 104);
+}
+.Squares_Page_Blocks_Description_Cap
+{
+    text-transform: uppercase;
+    letter-spacing: 2.1px;
+    background-color: white;
+    font-family: "LatoBold";
+}
+.Squares_Page_Blocks_Description
+{
+    padding: 32px 82px 64px 40px;
+    background-color: white;
+    box-shadow: 0px 3px 1px  #eaeaea;
+    font-family: "LatoLightItalic";
+}
+.Squares_Page_Description
+{
+    padding-top: 96px;
+    margin-left: 44px;
+    float: left;
+    width: 440px;
+    line-height: 31px;
+    letter-spacing: 0.3px;
+    color: #abbcc3;
+    font-family: "LatoLight";
+}
+.Squares_Page_Description_Cap
+{
+    
+    height: 100px;
+    font-size: 45px;
+    padding-bottom: 119px;
+    line-height: 51px;
+}
+.Squares_Page_Description_Shevron
+{
+    margin: 298px 0 0 399px;
+}
+.Contacts_Page
+{
+    background-color: rgb(122, 204, 200);
+    color: white;
+    height: 684px;
+    width: 1600px;
+    margin: 0 auto;
+}
+.Contacts_Page_Description
+{
+    font-family: "LatoLight";
+    padding-top: 69px;
+    line-height: 24px;
+    letter-spacing: -0.8px;
+}
+.Contacts_Page_Description_Left_Part
+{
+    width: 400px;
+    float: left;
+    margin-left: 211px;
+}
+.Contacts_Page_Description_Right_Part
+{
+    width: 230px;
+    float: left;
+    margin-left: 18px;
+}
+.Contacts_Page_List
+{
+    margin: -6px 0 0 420px;
+    float: left;
+    line-height: 36px;
+    font-family: "LatoBold";
+}
+.Contacts_Page_Link
+{
+    clear: both;
+    text-align: center;
+    font-family: "LatoLight";
+    text-transform: uppercase;
+    letter-spacing: 5.4px;
+    padding-top: 56px;
+    font-size: 13px;
+}
+.Contacts_Page_Link_Picture
+{
+    background-image: url(../images/Link_Picture1.png); 
+    width: 60px;
+    height: 62px;
+    margin: 0 0 80px 769px;
+}
+#myModal
+{
+    color: black;
+    font-family: "LatoLightItalic";
+    font-size: 24px;
+}
+  @font-face {
+    font-family: "LatoLight";
+    src: url(../fonts/Lato-Light.ttf);
+}
+  @font-face {
+    font-family: "LatoLightItalic";
+    src: url(../fonts/Lato-LightItalic.ttf);  
+}
+   @font-face {
+    font-family: "LatoBold";
+    src: url(../fonts/Lato-Bold.ttf);
+}
+  @font-face {
+    font-family: "LatoRegular";
+    src: url(../fonts/Lato-Regular.ttf);
+}
